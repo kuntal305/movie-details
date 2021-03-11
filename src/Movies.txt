@@ -1,0 +1,3 @@
+101,Tenet,drama,english,2020-12-04,John David Washington//Robert Pattinson,7.5,36000000
+102,Gone Girl,thriller,french,2014-10-10,Ben Affleck//Rosamund Pike,8.1,36900000
+103,Shaun of the Dead,comedy,korean,2004-03-29,Simon Pegg//Nick Frost, 7.9,30000000
